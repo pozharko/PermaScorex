@@ -53,7 +53,7 @@ correctly.
 Merkle tree
 -----------
 
-[https://en.wikipedia.org/wiki/Merkle_tree](Wikipedia)
+[Wikipedia](https://en.wikipedia.org/wiki/Merkle_tree)
 
 [https://github.com/jimjh/merkle-trees-impl](https://github.com/jimjh/merkle-trees-impl) - some Scala implementation
 
